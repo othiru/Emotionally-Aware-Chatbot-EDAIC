@@ -1,0 +1,27 @@
+DateTime,User,Chatbot,Intent,Emotion,Intent_probability,Emotion_probability,Rating,Feedback_Emotion
+4-12-2021 0:47 am,hi,Hello friend how are you?,Greeting, Neutral,1.0,1.0,3,
+4-12-2021 0:47 am,hey,Hi there. friend!,Greeting, Neutral,0.79,1.0,3,Neutral
+4-12-2021 0:48 am,hola,Good Bye.,Farewell, Neutral,0.51,0.74,4,Anger
+4-12-2021 0:48 am,bye,Bye Bye.,Farewell, Neutral,0.79,1.0,5,Joy
+4-12-2021 0:52 am,hi,Hello friend how are you?,Greeting, Neutral,1.0,1.0,3,
+4-12-2021 0:52 am,hey,Hi there. friend!,Greeting, Neutral,0.79,1.0,,Neutral
+4-12-2021 0:52 am,hola,Take care.,Farewell, Neutral,0.51,0.74,5,Anger
+4-12-2021 0:53 am,bye,Bye Bye.,Farewell, Neutral,0.79,1.0,1,Joy
+4-12-2021 2:1 am,hi,Hello friend how are you?,Greeting, Neutral,1.0,1.0,2,
+8-12-2021 9:45 pm,hello,What's new?,Greeting, Neutral,1.0,1.0,5,
+8-12-2021 9:45 pm,hello,Hi friend how are you?,Greeting, Neutral,1.0,1.0,5,
+8-12-2021 9:45 pm,i am feeling sad,I will never let you feel like that,Sad,sadness,0.92,0.8,5,
+8-12-2021 9:45 pm,i am depressed,oh no. Sorry to hear. Are you sure?,Sad,sadness,0.81,1.0,4,
+16-12-2021 0:38 am,i am fine,Yes. Of course you are and you always will be.,Confirm,joy,0.52,1.0,3,
+16-12-2021 0:39 am,what are you doing right now?,It's about crime in los angeles.,Introduction,joy,0.67,0.8,1,Neutral
+16-12-2021 0:39 am,The weather is good today,It is sunny and warm.,Info, Neutral,1.0,0.95,5,
+16-12-2021 0:39 am,"ok, bye then",Bye Bye.,Farewell, Neutral,0.85,0.56,5,Neutral
+16-12-2021 2:23 am,I am fine,Yes. Of course you are and you always will be.,Confirm,joy,0.52,1.0,5,
+16-12-2021 2:44 am,the girl i liked made fun of me infront of my friends,I am sorry to hear that the girl you liked made fun of you in front of her friends,Sad,love,0.85,0.95,1,Sadness
+16-12-2021 2:56 am,do you know the girl i liked made fun of me infront of my friends,I am sorry to hear that the girl you liked made fun of you in front of her friends,Sad,love,0.89,0.63,1,Sadness
+16-12-2021 10:42 am,hello,What's new?,Greeting, Neutral,0.99,1.0,1,Neutral
+20-12-2021 11:51 pm,I am so frustrated,Don't lose hope. Have some patience.,Angry_Frustrated,anger,0.56,1.0,5,
+20-12-2021 11:52 pm,It was a busy day,Are you free now?,Busy,joy,0.87,0.68,2,Neutral
+20-12-2021 11:52 pm,"No, I am not free today",Why is that so?,Confirm,joy,0.86,1.0,3,Neutral
+20-12-2021 11:52 pm,I have lots of work to do,I won't distract you then. You know where to find me.,Good, Neutral,0.7,0.85,5,
+20-12-2021 11:54 pm,ok. bye,Bye Bye.,Farewell, Neutral,0.7,0.56,5,
